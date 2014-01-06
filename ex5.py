@@ -18,7 +18,7 @@ print "His teeth are usually %s depending on the cofee." % my_teeth
 print "If I add %d, %d, and %d I get %d." % (
 	my_age, my_height, my_weight, my_age + my_height + my_weight)
 	
-birth = "[11,12,1987]" [5,1]
+birth = [11,12,1987]
 
 print "My birthday is %r." % birth
 
