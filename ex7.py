@@ -1,7 +1,7 @@
 print "mary had a little lamb."
 print "its fleece was white as %s." % 'snow'
 print "and everywhere that mary went." 
-print "." * 10 #what'd that do? # makes periods in a line for segmentation!
+print "." * 10 #what'd that do? makes periods in a line for segmentation!
 
 end1 = "C"
 end2 = "h"

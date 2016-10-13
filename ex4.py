@@ -12,7 +12,7 @@ print "There are", cars, "cars available."
 #only drivers
 print "There are only", drivers, "drivers available."
 #cars without drivers
-print "There will be ", cars_not_driven, "empty cars today."
+print "There will be", cars_not_driven, "empty cars today."
 #space available in cars
 print "We can transport", carpool_capacity, "people today."
 #people being transported

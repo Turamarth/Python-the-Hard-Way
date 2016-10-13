@@ -10,5 +10,3 @@ print formatter % (
 	"But it didn't sing.",
 	"so I said goodnight."
 	)
-	
-	
